@@ -1,0 +1,11 @@
+The project is structured as follows:
+SOIA
+ /build		# out of source build folder
+ /doc		# documentation folder
+ /soia		# top level cmake folder
+  /cmake	   # cmake code neccessary for building
+  /thirdparty  # thirdparty libs, that are included in this project
+  /source	   # all source goes here, it is divided in namespaces and subprojects
+   /
+   /
+   /program
